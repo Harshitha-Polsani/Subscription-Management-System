@@ -4,12 +4,16 @@ This project, created for the Database Systems course, is a Subscription Managem
 
 ## Key Features
 Customer Management: Add, update, delete, and retrieve customer information.
+
 Publication Management: Handle publication details, including type and name.
+
 Subscription Pricing: Manage pricing for different subscription types and durations.
 
 ## Technologies
 Python: For backend logic and database interaction.
+
 MySQL: As the relational database management system.
+
 Tkinter: For creating the graphical user interface.
 
 ## Usage
